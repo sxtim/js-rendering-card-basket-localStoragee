@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "acer-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 2,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "iphone-14-pro-max-gold.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 3,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "lenovo-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 4,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "macbook-10-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 5,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "msi-15-white.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 6,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "poco-f4-gt-yellow.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 7,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "samsung-s22-black.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 8,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "xiaomi-12x-purple.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 9,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "acer-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 10,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "iphone-14-pro-max-gold.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 11,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "lenovo-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 12,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "macbook-10-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 13,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "msi-15-white.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 14,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "poco-f4-gt-yellow.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 15,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "samsung-s22-black.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 16,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "xiaomi-12x-purple.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 17,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "acer-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 18,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "iphone-14-pro-max-gold.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 19,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "lenovo-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 20,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "macbook-10-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 21,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "msi-15-white.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 22,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "poco-f4-gt-yellow.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 23,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "samsung-s22-black.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 24,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "xiaomi-12x-purple.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 25,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "lenovo-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    }
+]
+
