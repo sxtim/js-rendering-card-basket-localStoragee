@@ -69,6 +69,8 @@ function delProductBasket(event) {
     const id = card.dataset.productId;
     const basket = getBasketLocalStorage();
 
+    
+
     const newBasket = basket.filter(item => item !== id);
     setBasketLocalStorage(newBasket);
 
@@ -98,8 +100,8 @@ function renderProductsBasket(arr) {
             <div class="cart__price-discount">
                 <span>${priceDiscount}</span>₽
             </div>
-            <div class="cart__del-card">X</div>
-            <button class="card__add">В избранное</button>
+            
+            <button class="cart__del-card ">В избранном</button>
         </div>
         `;
 
