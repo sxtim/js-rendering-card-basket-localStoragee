@@ -1,7 +1,7 @@
 "use strict"
 //==========================================
 import { ERROR_SERVER, NO_ITEMS_CART } from './constants.js';
-import { 
+import {
     showErrorMessage,
     setBasketLocalStorage,
     getBasketLocalStorage,
@@ -26,7 +26,7 @@ async function getProducts() {
             }
             productsData = await res.json();
         }
-        
+
         loadProductBasket(productsData);
 
     } catch (err) {
@@ -80,7 +80,7 @@ function renderProductsBasket(arr) {
         const { id, img, title, price, discount } = card;
         const priceDiscount = price - ((price * discount) / 100);
 
-        const cardItem = 
+        const cardItem =
         `
         <div class="cart__product" data-product-id="${id}">
             <div class="cart__img">
@@ -99,6 +99,7 @@ function renderProductsBasket(arr) {
                 <span>${priceDiscount}</span>₽
             </div>
             <div class="cart__del-card">X</div>
+            <button class="card__add">В избранное</button>
         </div>
         `;
 

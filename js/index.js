@@ -94,11 +94,21 @@ function handleCardClick(event) {
     const id = card.dataset.productId;//ищем атрибут id карточки
     const basket = getBasketLocalStorage();//получаем значение из LS
 
-    if (basket.includes(id)) return;//проверяем id карточки в ls, если есть то выходим
+    if (basket.includes(id)){
+        let index = basket.indexOf(id)
+        basket.splice(index, 1)
+        console.log(basket);
+        setBasketLocalStorage(basket);//передаем массив idшек карточек в ls
+    checkingActiveButtons(basket);//проходимся по всем кнопкам карточек, активны ли кнопки карточек которые находятся в ls
+      //проверяем id карточки в ls, если есть то выходим
+    }
+    else {
 
     basket.push(id);//если новая карточка, пушим id карточки в массив
+    console.log(basket);
     setBasketLocalStorage(basket);//передаем массив idшек карточек в ls
     checkingActiveButtons(basket);//проходимся по всем кнопкам карточек, активны ли кнопки карточек которые находятся в ls
+    }
 }
 
 
@@ -110,9 +120,9 @@ function checkingActiveButtons(basket) {
         const id = card.dataset.productId;//получаем ее id
         const isInBasket = basket.includes(id);//есть ли id в basket ls
 
-        btn.disabled = isInBasket;//делаем кнопку не кликабельной/кликабельной
+        // btn.disabled = isInBasket;//делаем кнопку не кликабельной/кликабельной
         btn.classList.toggle('active', isInBasket);//добавляем стили
-        btn.textContent = isInBasket ? 'В корзине' : 'В корзину';
+        btn.textContent = isInBasket ? 'В избранном' : 'В избранное';
     });
 }
 
@@ -126,7 +136,7 @@ function createCards(data) {
 			`
                 <div class="card" data-product-id="${id}">
                     <div class="card__top">
-                        <a href="/card.html?id=${id}" class="card__image">
+                        <a href="card.html?id=${id}" class="card__image">
                             <img
                                 src="./images/${img}"
                                 alt="${title}"
@@ -140,7 +150,7 @@ function createCards(data) {
                             <div class="card__price card__price--common">${price}</div>
                         </div>
                         <a href="/card.html?id=${id}" class="card__title">${title}</a>
-                        <button class="card__add">В корзину</button>
+                        <button class="card__add">В избранное</button>
                     </div>
                 </div>
             `
