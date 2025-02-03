@@ -77,6 +77,8 @@ function sliceArrCards() {
 
     const arrCards = productsData.slice(shownCards, countShowCards);
     createCards(arrCards);
+    const basket = getBasketLocalStorage();//получаем данные из ls
+    checkingActiveButtons(basket);//проходимся по всем кнопкам
     //после рендера карточек
     shownCards = cards.children.length;
 
