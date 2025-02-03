@@ -17,9 +17,9 @@ wrapper.addEventListener('click', handleCardClick);
 
 async function getProducts() {
     try {
-
+        https://sxtim.github.io/js-rendering-card-basket-localStoragee/data/products.json
         if (!productsData.length) {
-            const res = await fetch('/js-rendering-card-basket-localStoragee/data/products.json');
+            const res = await fetch('/js-rendering-card-basket-localStoragee/products.json');
             if (!res.ok) {
                 throw new Error(res.statusText)
             }

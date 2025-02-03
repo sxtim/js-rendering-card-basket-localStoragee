@@ -20,7 +20,7 @@ async function getProducts() {
     try {
 
         if (!productsData.length) {
-            const res = await fetch('/products.json');
+            const res = await fetch('/js-rendering-card-basket-localStoragee/products.json');
             if (!res.ok) {
                 throw new Error(res.statusText)
             }
