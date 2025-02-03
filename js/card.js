@@ -19,7 +19,7 @@ async function getProducts() {
     try {
 
         if (!productsData.length) {
-            const res = await fetch('../data/products.json');
+            const res = await fetch('/js-rendering-card-basket-localStoragee/data/products.json');
             if (!res.ok) {
                 throw new Error(res.statusText)
             }
@@ -64,7 +64,7 @@ function loadProductDetails(data) {
         return;
     }
     renderInfoProduct(findProduct);
-    
+
     const basket = getBasketLocalStorage();//получаем данные из ls
     checkingActiveButtons(basket);
 }
